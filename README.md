@@ -16,6 +16,8 @@ Juntamente com a modelagem do diagrama UML, foi implementado as classes e interf
 
 # Diagrama UML
 
+O seguinte diagrama foi gerado utilizando a ferramenta UML  [Mermaid Live Editor](https://mermaid.live/), sendo esta uma alternativa Open Source e compatível com arquivos Markdown.
+
 ```mermaid
 classDiagram
     class Iphone {
